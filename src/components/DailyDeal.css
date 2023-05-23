@@ -1,0 +1,20 @@
+.dailyDealBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+ 
+}
+/* .dailyDealBar{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+} */
+b{  
+    display: flex;
+    align-items: center;
+    color: #3c669d;
+}
+.dailyDealsImg{
+    
+}
