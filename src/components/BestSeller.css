@@ -1,0 +1,28 @@
+.bestSellerHeading{
+    font-family: metropolis;
+    font-size: x-large;
+    color: #1a2024;
+    text-align: left;
+    margin-bottom: 12px;
+}
+.categories{
+    font-weight: 900;
+}
+.bestSellerVideo{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+.bestSellerVideo video{
+    border-radius: 30px;
+}
+.bestSellerVideoContainer{
+    display: flex;
+    padding: 2.5px;
+    overflow:scroll;
+    scroll-behavior:auto;  
+}

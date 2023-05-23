@@ -1,0 +1,18 @@
+
+.round-img img {
+    border: double 4px red;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    margin-right: 50px;
+}
+
+.round-img{
+    display: flex;
+   flex-direction: column;
+}
+p{
+    margin: 0px;
+    padding: 0px;
+}
+
