@@ -7,3 +7,36 @@
   color: #293036;
   line-height: normal;
 }
+.footer-main{
+  background-color: #eff4f7;
+  border: none;
+  padding: 20px;
+  margin-bottom: 30px
+
+}
+.boatSearch{
+  padding: 15px;
+  width: 90%;
+  border: none;
+  border-radius: 10px;
+  background-color: white;
+  height: 20px;
+
+
+}
+.footer__item-content{
+  margin-bottom: 50px;
+}
+input{
+  width: 90%;
+  height: inherit;
+  border: none;
+ 
+}
+.bolder{
+  font-weight: bolder;
+  font-size: larger;
+}
+.marginBottom{
+  margin-bottom: 10px;
+}
